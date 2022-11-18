@@ -9,7 +9,7 @@ Software developer with a proven problem solving ability , adapt in ever-changin
 * 🌍  I'm based in Addis Abeba, Ethiopia
 * 🖥️  See my portfolio at [My\_Portfolio](http://www.abdurehmanmohammed.com/)
 * ✉️  You can contact me at [abdurehmanmohammed45@gmail.com](mailto:abdurehmanmohammed45@gmail.com)
-* 🧠  I'm learning AI with PHYTON
+* 🧠  I'm learning AI with Phyton
 
 ### Skills
 
