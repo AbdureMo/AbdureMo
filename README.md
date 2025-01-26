@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdurehman Mohamed
 ===========================================================================================================================================
 
-Full Stack (MERN) Web Developer
+A Full Stack Developer
 -------------------------------
 
-Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
+A softwarqe developer who has demonstrated the capacity to solve problems, adapt to demanding and ever-changing circumstances, and focus on producing high-quality outcomes within a certain deadline.
 
-* 🌍  I'm based in Addis Abeba, Ethiopia
-* 🖥️  See my portfolio at [My\_Portfolio](http://www.abdurehmanmohammed.com/)
-* ✉️  You can contact me at [abdurehmanmohammed45@gmail.com](mailto:abdurehmanmohammed45@gmail.com)
-* 🧠  I'm learning AI with PHYTON
+* 🌍  I'm based in Jeddah, KSA
+* 🖥️  See my portfolio at [My\_Portfolio](http://www.abdure.com/)
+* ✉️  You can contact me at [abduremod@gmail.com](mailto:abduremod@gmail.com)
 
 ### Skills
 
